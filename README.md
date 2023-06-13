@@ -1,5 +1,2 @@
-- ☁ Hi, I’m Diogo!
-- 🌐 I’m interested in programming, games, knowledge and apprenticeship
-- 📚 I’m currently studying software engineering and learning JS, HTML, CSS.
-- 🤝🏻 I’m looking to collaborate on a company with values and goals.
-- 📫 How to reach me: diogomenezes011@gmail.com
+📚 Atualmente estou aprimorando meus conhecimentos em Front-End
+📫 diogomenezes011@gmail.com
