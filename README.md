@@ -1,2 +1,3 @@
-- 📚 Atualmente estou aprimorando meus conhecimentos em Front-End
+- ⌨️ Design & video editing
+- ⭐️ Social media
 - 📫 diogomenezes011@gmail.com
